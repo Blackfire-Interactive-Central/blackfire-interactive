@@ -1,0 +1,30 @@
+body {
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button {
+    background-color: #ffffff00;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    user-select: none;
+}
+.button:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#main {
+    color: #ffffff;
+}
+#main p {font-weight: 200;}
+#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {font-weight: 500;}
